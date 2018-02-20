@@ -1,0 +1,19 @@
+{
+  "name": "testsass",
+  "version": "1.0.0",
+  "description": "testing sass through npm and gulp",
+  "main": "app.js",
+  "dependencies": {
+    "gulp-sass": "^3.1.0",
+    "node-sass": "^4.7.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "souptik",
+  "license": "ISC"
+}
